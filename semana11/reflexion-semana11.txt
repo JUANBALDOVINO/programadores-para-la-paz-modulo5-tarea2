@@ -1,0 +1,9 @@
+Una plataforma de participación ciudadana maneja datos sensibles y procesos democráticos 
+que exigen un entorno digital robusto. La base de datos es el motor central que organiza, 
+almacena y procesa de forma estructurada las propuestas, votos y debates de la comunidad, 
+garantizando que la información no se pierda. Por su parte, la autenticación de usuarios es 
+indispensable para validar la identidad de los participantes, lo que asegura el principio de 
+"un ciudadano, un voto" y evita la manipulación mediante perfiles falsos o bots. Finalmente, 
+la protección de información blinda el sistema contra hackeos y garantiza la confidencialidad 
+de las opiniones y datos personales. Sin estos tres pilares, la plataforma carecería de la confianza, 
+transparencia y seguridad necesarias para que la ciudadanía se exprese libremente.

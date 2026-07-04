@@ -1,0 +1,7 @@
+El login es el proceso de autenticación que identifica a un usuario para otorgarle 
+acceso a funciones específicas de una aplicación. Es el primer filtro de seguridad, 
+esencial para que ciertas rutas se mantengan protegidas, ya que estas resguardan 
+información privada, configuraciones internas o acciones críticas que un usuario 
+común no debe alterar. En este entorno, es vital asegurar que nunca se expongan públicamente datos 
+sensibles como contraseñas, tokens de acceso, claves de API, documentos de identidad, teléfonos 
+ni direcciones, garantizando la privacidad del usuario y la integridad de todo el sistema.

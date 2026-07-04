@@ -1,0 +1,36 @@
+Entidad: Usuario
+
+Campos principales
+id (Identificador único)
+
+nombre_completo
+
+correo_electronico
+
+fecha_registro
+
+rol (ej. "Vecino", "Organizador", "Administrador")
+
+Propósito:
+Identificar y gestionar a las personas que interactúan en la plataforma. 
+Permite saber quién crea una causa, quién la apoya y qué tipo de permisos tiene 
+dentro de la comunidad.
+
+
+Entidad: Comentario
+
+Campos principales
+id (Identificador único)
+
+causa_id (Relación con la causa)
+
+usuario_id (Relación con el usuario que comenta)
+
+texto (El contenido del mensaje)
+
+fecha_publicacion
+
+Propósito:
+Fomentar la comunicación y el debate entre los miembros de la comunidad. Permite 
+a los usuarios aportar ideas, coordinar acciones o hacer preguntas específicas sobre 
+na causa concreta.
